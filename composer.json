@@ -1,0 +1,9 @@
+{
+  "require": {
+    "php": ">=5.4",
+    "messagebird/php-rest-api": "*"
+  },
+  "autoload": {
+    "psr-4": {"MessageBird\\": "src/"}
+  }
+}
