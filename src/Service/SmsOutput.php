@@ -14,7 +14,7 @@ class SmsOutput
     /**
      * Private key for the account
      */
-    const KEY = 'Ngz02R3txiCiA0IvLbp0H9vq2';
+    const KEY = 'PRIVATE_KEY_INSERT_HERE';
 
     /**
      * Max length for concatenated sms
